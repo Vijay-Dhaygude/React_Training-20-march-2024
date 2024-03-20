@@ -1,0 +1,17 @@
+npm i -g create-react-app 
+create-react-app myapp
+
+cd myapp
+npm start
+
+
+
+rfc - react finctional componant
+
+
+npm i axios
+
+https://www.freecodecamp.org/news/how-to-use-axios-with-react/
+
+
+https://redux-toolkit.js.org/tutorials/quick-start
